@@ -1,0 +1,6 @@
+celery
+Flask
+redis
+Werkzeug
+requests
+pytest
